@@ -19,13 +19,17 @@
 
 ## Languages and Tools:
 
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/22273002/98248387-de4dd700-1f9a-11eb-98cd-a03a24c03a27.png" />
-
 <img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/22273002/98249127-e9553700-1f9b-11eb-9f7d-4d16bd497a6e.png" />
+
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/22273002/98248387-de4dd700-1f9a-11eb-98cd-a03a24c03a27.png" />
 
 <img align="left" alt="C#" width="26px" src="https://user-images.githubusercontent.com/22273002/98249383-2faa9600-1f9c-11eb-8f9b-36e9d5819b46.png" />
 
+<img align="left" alt="Docker" width="26px" src="https://user-images.githubusercontent.com/22273002/98249562-62ed2500-1f9c-11eb-8ee3-6b3846062f5d.png" />
+
 <!--
+
+
 **arjunraghurama/arjunraghurama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
