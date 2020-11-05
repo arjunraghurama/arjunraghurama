@@ -24,4 +24,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/22273002/98248387-de4dd700-1f9a-11eb-98cd-a03a24c03a27.png" />
 <img align="left" alt="Docker" width="26px" src="https://user-images.githubusercontent.com/22273002/98249562-62ed2500-1f9c-11eb-8ee3-6b3846062f5d.png" />
 
+<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/22273002/98250121-12c29280-1f9d-11eb-8285-6a76c6bb5007.png" />
+<img align="left" alt=" " width="26px" src=" " />
+<img align="left" alt=" " width="26px" src=" " />
+<img align="left" alt=" " width="26px" src=" " />
+
 
