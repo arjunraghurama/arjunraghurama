@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on [Pacs Data Migration tool]
 - 🌱 I’m currently learning Solidity
-<br />
 
 ## Connect with me:
 
@@ -17,11 +16,6 @@
 ## Portfolio
 
 [![Portfolio](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Farjunraghurama.github.io%2Fcv%2F)](https://arjunraghurama.github.io/cv/)
-
-<!--
-[Pacs Data Migration tool]: 
--->
-<br />
 <br />
 
 ## Languages and Tools:
@@ -39,4 +33,6 @@
 <img align="left" alt=" " width="26px" src=" " />
 -->
 
-
+<!--
+[Pacs Data Migration tool]: 
+-->
