@@ -19,7 +19,7 @@
 
 ## Languages and Tools:
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/22273002/98248387-de4dd700-1f9a-11eb-98cd-a03a24c03a27.png" />
 
 <!--
 **arjunraghurama/arjunraghurama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
