@@ -28,16 +28,10 @@
 
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/22273002/98250277-3f76aa00-1f9d-11eb-8244-75b04d79149b.png" />
 <img align="left" alt="Visual Studio" width="26px" src="https://user-images.githubusercontent.com/22273002/98250575-9b413300-1f9d-11eb-9a39-feb25a88f594.png" />
-
+<img align="left" alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/22273002/98252613-27545a00-1fa0-11eb-9744-584fdf586c34.png" />
 
 <!--
 <img align="left" alt=" " width="26px" src=" " />
-<img align="left" alt=" " width="26px" src=" " />
-<img align="left" alt=" " width="26px" src=" " />
-
-
-
-
 -->
 
 
