@@ -25,7 +25,7 @@
 <img align="left" alt="Docker" width="26px" src="https://user-images.githubusercontent.com/22273002/98249562-62ed2500-1f9c-11eb-8ee3-6b3846062f5d.png" />
 
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/22273002/98250277-3f76aa00-1f9d-11eb-8244-75b04d79149b.png" />
-<img align="left" alt="Visual Studio" width="30px" src=" https://user-images.githubusercontent.com/22273002/98250394-603eff80-1f9d-11eb-81ee-3d927851a0d1.png" />
+<img align="left" alt="Visual Studio" width="26px" src=" https://user-images.githubusercontent.com/22273002/98250394-603eff80-1f9d-11eb-81ee-3d927851a0d1.png" />
 <!--
 <img align="left" alt=" " width="26px" src=" " />
 <img align="left" alt=" " width="26px" src=" " />
