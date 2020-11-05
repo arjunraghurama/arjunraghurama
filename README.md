@@ -21,6 +21,8 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/22273002/98248387-de4dd700-1f9a-11eb-98cd-a03a24c03a27.png" />
 
+<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/22273002/98249127-e9553700-1f9b-11eb-9f7d-4d16bd497a6e.png" />
+
 <!--
 **arjunraghurama/arjunraghurama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
