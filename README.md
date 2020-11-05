@@ -8,7 +8,7 @@
 
 ## Connect with me:
 
-[<img align="left" alt="arjunraghurama | LinkedIn" width="26px" src="https://user-images.githubusercontent.com/22273002/98251075-44882900-1f9e-11eb-957d-3f70c483a64c.png" />][linkedin]
+[<img align="left" alt="arjunraghurama | LinkedIn" width="26px" src="https://user-images.githubusercontent.com/22273002/98264591-10b4ff80-1fae-11eb-99b3-4e1b60d80b6a.png" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/arjunraghurama
 <br />
