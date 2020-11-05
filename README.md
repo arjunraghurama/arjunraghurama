@@ -9,12 +9,12 @@
 
 ## Connect with me:
 
-[<img align="left" alt="arjunraghurama | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/22273002/98251075-44882900-1f9e-11eb-957d-3f70c483a64c.png" />][linkedin]
+[<img align="left" alt="arjunraghurama | LinkedIn" width="26px" src="https://user-images.githubusercontent.com/22273002/98251075-44882900-1f9e-11eb-957d-3f70c483a64c.png" />][linkedin]
 
 
 [linkedin]: https://linkedin.com/in/arjunraghurama
 
-[Pacs Data Migration tool]: https://user-images.githubusercontent.com/22273002/98251075-44882900-1f9e-11eb-957d-3f70c483a64c.png
+[Pacs Data Migration tool]: 
 
 <br />
 <br />
