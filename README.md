@@ -15,7 +15,7 @@
 
 ## Portfolio:
 
-[![Portfolio](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Farjunraghurama.github.io%2Fcv%2F)](https://arjunraghurama.github.io/cv/)
+[![Portfolio](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Farjunraghurama.github.io%2Fcv%2F)](https://arjunraghurama.github.io/cv/ "Resume")
 <br />
 
 ## Languages and Tools:
