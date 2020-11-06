@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## I'm a Software Engineer working at TOSHIBA
+## I'm a Software Engineer 
 
 - 🔭 I’m currently working on [Pacs Data Migration tool]
 - 🌱 I’m currently learning Solidity
