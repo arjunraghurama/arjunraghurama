@@ -32,7 +32,7 @@
 
 
 
-[solidity]: https://solidity.readthedocs.io/en/v0.7.4/#
+[solidity]: https://solidity.readthedocs.io/en/v0.7.4/
 <!-- [solidity]: https://solidity.readthedocs.io/en/v0.7.4/#
 -->
 <!--
