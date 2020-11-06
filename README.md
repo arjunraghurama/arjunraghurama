@@ -10,7 +10,7 @@
 
 [<img align="left" alt="arjunraghurama | LinkedIn" width="26px" src="https://user-images.githubusercontent.com/22273002/98264591-10b4ff80-1fae-11eb-99b3-4e1b60d80b6a.png" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/arjunraghurama
+
 <br />
 
 ## Portfolio:
@@ -28,10 +28,10 @@
 [<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/22273002/98250277-3f76aa00-1f9d-11eb-8244-75b04d79149b.png" />][python]
 [<img align="left" alt="Visual Studio" width="26px" src="https://user-images.githubusercontent.com/22273002/98250575-9b413300-1f9d-11eb-9a39-feb25a88f594.png" />][visualstudio]
 [<img align="left" alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/22273002/98252613-27545a00-1fa0-11eb-9744-584fdf586c34.png" />][mysql]
-[<img align="left" alt="Solidity" width="26px" src="https://user-images.githubusercontent.com/22273002/98341910-9f209400-2035-11eb-8cb9-319960aac71b.png" />][solidity]
+[<img align="left" alt="Solidity" width="26px" src="https://user-images.githubusercontent.com/22273002/98339175-4fd86480-2031-11eb-9209-0665034e3cbd.png" />][solidity]
 
 
-
+[linkedin]: https://linkedin.com/in/arjunraghurama
 [cpp]: http://www.cplusplus.com/
 [c#]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [github]: https://github.com/
@@ -41,13 +41,7 @@
 [mysql]: https://www.mysql.com/
 [solidity]: https://solidity.readthedocs.io/en/v0.7.4/#
 <!-- 
-[solidity]: https://solidity.readthedocs.io/en/v0.7.4/#
-
-https://user-images.githubusercontent.com/22273002/98339175-4fd86480-2031-11eb-9209-0665034e3cbd.png
-
-
-
-
+Solidity : https://user-images.githubusercontent.com/22273002/98341910-9f209400-2035-11eb-8cb9-319960aac71b.png
 -->
 <!--
 <img align="left" alt=" " width="26px" src=" " />
