@@ -4,7 +4,7 @@
 ## I'm a Software Engineer 
 
 - 🔭 I’m currently working on [Pacs Data Migration tool](https://github.com/arjunraghurama/pacs-data-migration-tool)
-- 🌱 I’m currently learning [Solidity](https://solidity.readthedocs.io/en/v0.7.4/#)
+- 🌱 I’m currently learning [Node Js](https://nodejs.org/en/) and [Solidity](https://solidity.readthedocs.io/en/v0.7.4/#)
 
 ## Connect with me:
 
