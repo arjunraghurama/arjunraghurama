@@ -4,7 +4,7 @@
 ## I'm a Software Engineer 
 
 - 🔭 I’m currently working on [Pacs Data Migration tool](https://github.com/arjunraghurama/pacs-data-migration-tool)
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning [Solidity](https://solidity.readthedocs.io/en/v0.7.4/#)
 
 ## Connect with me:
 
@@ -29,6 +29,7 @@
 [<img align="left" alt="Visual Studio" title="Visual Studio" width="26px" src="https://user-images.githubusercontent.com/22273002/98250575-9b413300-1f9d-11eb-9a39-feb25a88f594.png" />][visualstudio]
 [<img align="left" alt="MySQL" title="MySQL" width="26px" src="https://user-images.githubusercontent.com/22273002/98252613-27545a00-1fa0-11eb-9744-584fdf586c34.png" />][mysql]
 [<img align="left" alt=" " title="Solidity" width="26px" src="https://user-images.githubusercontent.com/22273002/98339175-4fd86480-2031-11eb-9209-0665034e3cbd.png" />][solidity]
+[<img align="left"  title="Node Js" alt=" " width="26px" src="https://user-images.githubusercontent.com/22273002/98466371-1e0ffb00-21f5-11eb-8e76-19f2f5ac475a.png" />][nodejs]
 
 [linkedin]: https://linkedin.com/in/arjunraghurama
 [cpp]: http://www.cplusplus.com/
@@ -39,11 +40,14 @@
 [visualstudio]: https://visualstudio.microsoft.com/
 [mysql]: https://www.mysql.com/
 [solidity]: https://solidity.readthedocs.io/en/v0.7.4/#
+[nodejs]: https://nodejs.org/en/
 <!-- 
 Solidity : https://user-images.githubusercontent.com/22273002/98341910-9f209400-2035-11eb-8cb9-319960aac71b.png
 -->
 <!--
 <img align="left" alt=" " width="26px" src=" " />
+![nodejs](https://user-images.githubusercontent.com/22273002/98466371-1e0ffb00-21f5-11eb-8e76-19f2f5ac475a.png)
+![java-script-logo](https://user-images.githubusercontent.com/22273002/98466372-1f412800-21f5-11eb-9bc9-aeda07efb14c.png)
 -->
 
 <!--
