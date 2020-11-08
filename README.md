@@ -30,7 +30,7 @@
 [<img align="left" alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/22273002/98252613-27545a00-1fa0-11eb-9744-584fdf586c34.png" />][mysql]
 [<img align="left" alt=" " width="26px" src="https://user-images.githubusercontent.com/22273002/98339175-4fd86480-2031-11eb-9209-0665034e3cbd.png" />][solidity]
 
-[linkedin]: https://linkedin.com/in/arjunraghurama ("C plus plus")
+[linkedin]: https://linkedin.com/in/arjunraghurama
 [cpp]: http://www.cplusplus.com/
 [c#]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [github]: https://github.com/
