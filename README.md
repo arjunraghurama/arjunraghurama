@@ -3,7 +3,7 @@
 
 ## I'm a Software Engineer 
 
-- 🔭 I’m currently working on [dotnet-sdk](https://github.com/arjunraghurama/dotnetcore-sdk)
+- 🔭 I’m currently working on [dotnetcore-sdk](https://github.com/arjunraghurama/dotnetcore-sdk)
 - 🌱 I’m currently learning [NodeJs](https://nodejs.org/en/) and [Solidity](https://solidity.readthedocs.io/en/v0.7.4/#)
 
 ## Connect with me:
