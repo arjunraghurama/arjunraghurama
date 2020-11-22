@@ -18,6 +18,13 @@
 [![Portfolio](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Farjunraghurama.github.io%2Fcv%2F)](https://arjunraghurama.github.io/cv/ "Resume")
 <br />
 
+## Stats
+<!-- Stats is obtained from below repo. 
+https://github.com/anuraghazra/github-readme-stats
+-->
+
+![Repo stats](https://github-readme-stats.vercel.app/api?username=arjunraghurama&show_icons=true&theme=dark)
+
 ## Languages and Tools:
 
 [<img align="left" alt="C++" title="C++" width="26px" src="./assets/Cplusplus.png" />][cpp]
@@ -41,6 +48,9 @@
 [mysql]: https://www.mysql.com/
 [solidity]: https://solidity.readthedocs.io/en/v0.7.4/#
 [nodejs]: https://nodejs.org/en/
+
+<!--
+-->
 <!-- 
 Solidity : https://user-images.githubusercontent.com/22273002/98341910-9f209400-2035-11eb-8cb9-319960aac71b.png
 -->
