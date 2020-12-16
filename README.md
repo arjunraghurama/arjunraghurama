@@ -33,11 +33,10 @@ https://github.com/anuraghazra/github-readme-stats
 [<img align="left" alt="C#" title="C#" width="26px" src="./assets/Csharp.png" />][c#]
 [<img align="left" alt="GitHub" title="Github" width="26px" src="./assets/Github.png" />][github]
 [<img align="left" alt="Docker"  title="Docker" width="26px" src="./assets/Docker.png" />][docker]
-
 [<img align="left" alt="Python" title="Python" width="26px" src="./assets/Python.png" />][python]
 [<img align="left" alt="Visual Studio" title="Visual Studio" width="26px" src="./assets/VisualStudio.png" />][visualstudio]
 [<img align="left" alt="MySQL" title="MySQL" width="26px" src="./assets/MySQL.png" />][mysql]
-[<img align="left" alt=" " title="Solidity" width="26px" src="./assets/Solidity.png" />][solidity]
+
 [<img align="left"  title="Node Js" alt=" " width="26px" src="./assets/NodeJs.png" />][nodejs]
 
 [linkedin]: https://linkedin.com/in/arjunraghurama
@@ -55,6 +54,7 @@ https://github.com/anuraghazra/github-readme-stats
 -->
 <!-- 
 Solidity : https://user-images.githubusercontent.com/22273002/98341910-9f209400-2035-11eb-8cb9-319960aac71b.png
+[<img align="left" alt=" " title="Solidity" width="26px" src="./assets/Solidity.png" />][solidity]
 -->
 <!--
 <img align="left" alt=" " width="26px" src=" " />
