@@ -4,7 +4,7 @@
 ## I'm a Software Engineer 
 
 - 🔭 I’m currently working on [Pacs-Data-Migration-Tool](https://github.com/arjunraghurama/pacs-data-migration-tool)
-- 🌱 I’m currently learning [JavaScript]
+- 🌱 I’m currently learning JavaScript
 
 ## Connect with me:
 
