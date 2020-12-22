@@ -46,7 +46,6 @@ https://github.com/anuraghazra/github-readme-stats
 [python]: https://www.python.org/
 [visualstudio]: https://visualstudio.microsoft.com/
 [mysql]: https://www.mysql.com/
-[JavaScript](https://user-images.githubusercontent.com/22273002/98466372-1f412800-21f5-11eb-9bc9-aeda07efb14c.png)
 
 <!--
 -->
