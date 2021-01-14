@@ -36,8 +36,9 @@ https://github.com/anuraghazra/github-readme-stats
 [<img align="left" alt="Python" title="Python" width="26px" src="./assets/Python.png" />][python]
 [<img align="left" alt="Visual Studio" title="Visual Studio" width="26px" src="./assets/VisualStudio.png" />][visualstudio]
 [<img align="left" alt="MySQL" title="MySQL" width="26px" src="./assets/MySQL.png" />][mysql]
+<!--
 <img align="left"  title="JavaScript" alt=" " width="26px" src="./assets/java-script.png" />
-
+-->
 [linkedin]: https://linkedin.com/in/arjunraghurama
 [cpp]: http://www.cplusplus.com/
 [c#]: https://docs.microsoft.com/en-us/dotnet/csharp/
