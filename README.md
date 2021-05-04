@@ -25,7 +25,7 @@ https://github.com/anuraghazra/github-readme-stats
 <!--
 ![Repo stats](https://github-readme-stats.vercel.app/api?username=arjunraghurama&show_icons=true&theme=dark)
 -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunraghurama&layout=compact&exclude_repo=cv&hide=shell,css,scss,javascript,html&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunraghurama&layout=compact&exclude_repo=cv,Algorithms&hide=shell,css,scss,javascript,html&theme=dark)
 
 ## Languages and Tools:
 
