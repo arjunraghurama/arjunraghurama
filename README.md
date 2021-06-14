@@ -3,7 +3,8 @@
 
 ## I'm a Software Engineer 
 
-- 🔭 I’m currently working on [two-channel-fabric-network](https://github.com/arjunraghurama/two-channel-fabric-network)
+
+- 🔭 I’m currently working on [TNBC Explorer](https://github.com/arjunraghurama/tnbc-explorer)
 - 🌱 I’m currently learning JavaScript
 
 ## Connect with me:
