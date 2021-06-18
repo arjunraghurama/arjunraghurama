@@ -1,7 +1,19 @@
-### Hi there 👋
+<h1 align="center">
+
+  <span> Hi there 👋 </span>
+  
+</h1>
+
+<h2 align="center">
+
+  <span> I'm a Software Developer  </span>
+  
+</h2>
+
+<!-- ### Hi there 👋
 
 
-## I'm a Software Engineer 
+## I'm a Software Engineer  -->
 
 
 - 🔭 I’m currently working on [TNBC Explorer](https://github.com/arjunraghurama/tnbc-explorer)
