@@ -1,18 +1,8 @@
 <h1 align="center">
-
-  <span> Hi there 👋 </span>
-  
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!👋+I'm+Arjun;I'm+a+Software+Developer;&center=true&size=30&color=074AF7">
 </h1>
 
-<h2 align="center">
-
-  <span> I'm a Software Developer  </span>
-  
-</h2>
-
 <!-- ### Hi there 👋
-
-
 ## I'm a Software Engineer  -->
 
 
