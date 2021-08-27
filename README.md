@@ -6,8 +6,8 @@
 ## I'm a Software Engineer  -->
 
 
-- 🔭 I’m currently working on [TNBC Explorer](https://github.com/arjunraghurama/tnbc-explorer)
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m currently working on [my-class](https://github.com/arjunraghurama/my-class)
+- 🌱 I’m currently learning Java
 
 ## Connect with me:
 
