@@ -37,7 +37,6 @@ https://github.com/anuraghazra/github-readme-stats
 [<img align="left" alt="GitHub" title="Github" width="26px" src="./assets/Github.png" />][github]
 [<img align="left" alt="Docker"  title="Docker" width="26px" src="./assets/Docker.png" />][docker]
 [<img align="left" alt="Python" title="Python" width="26px" src="./assets/Python.png" />][python]
-[<img align="left" alt="Visual Studio" title="Visual Studio" width="26px" src="./assets/VisualStudio.png" />][visualstudio]
 [<img align="left" alt="MySQL" title="MySQL" width="26px" src="./assets/MySQL.png" />][mysql]
 <!--
 <img align="left"  title="JavaScript" alt=" " width="26px" src="./assets/java-script.png" />
@@ -48,7 +47,6 @@ https://github.com/anuraghazra/github-readme-stats
 [github]: https://github.com/
 [docker]: https://www.docker.com/
 [python]: https://www.python.org/
-[visualstudio]: https://visualstudio.microsoft.com/
 [mysql]: https://www.mysql.com/
 
 <!--
