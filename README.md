@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on [my-class](https://github.com/arjunraghurama/my-class)
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning TypeScript
 
 ## Connect with me:
 
