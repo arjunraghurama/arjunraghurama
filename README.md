@@ -9,10 +9,11 @@
 - 🔭 I’m currently working on [my-class](https://github.com/arjunraghurama/my-class)
 - 🌱 I’m currently learning TypeScript
 
+<!-- 
 ## Connect with me:
 
 [<img align="left" alt="arjunraghurama | LinkedIn" width="26px" src="./assets/Linkedin.png" />][linkedin]
-
+-->
 
 <br />
 
