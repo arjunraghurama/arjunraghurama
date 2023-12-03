@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on [rate-limiter](https://github.com/arjunraghurama/client-ratelimiter)
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning backend developmemt using FastAPI
 
 <!-- 
 ## Connect with me:
