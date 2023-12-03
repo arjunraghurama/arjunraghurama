@@ -6,7 +6,7 @@
 ## I'm a Software Engineer  -->
 
 
-- 🔭 I’m currently working on [my-class](https://github.com/arjunraghurama/my-class)
+- 🔭 I’m currently working on [rate-limiter](https://github.com/arjunraghurama/client-ratelimiter)
 - 🌱 I’m currently learning TypeScript
 
 <!-- 
